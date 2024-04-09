@@ -37,4 +37,4 @@ Users should be able to:
 
 ## Author
 - Frontend Mentor - [@CaesarKalikunde](https://www.frontendmentor.io/profile/CaesarKalikunde)
-- LinkedIn - [@CaesarKalikunde](https://www.twitter.com/yourusername)
+- LinkedIn - [@CaesarKalikunde](https://www.linkedin.com/in/caesar-kalikunde-ba62532a9/)
