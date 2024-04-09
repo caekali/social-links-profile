@@ -36,5 +36,5 @@ Users should be able to:
 - Mobile-first workflow
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- LinkedIn - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@CaesarKalikunde](https://www.frontendmentor.io/profile/CaesarKalikunde)
+- LinkedIn - [@CaesarKalikunde](https://www.twitter.com/yourusername)
