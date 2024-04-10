@@ -82,7 +82,7 @@ body{
     border-radius: 5px;
     transition: background-color 1s ease;
 }
-.profile-card__link:active,
+.profile-card__link:focus,
 .profile-card__link:hover{
     background-color: hsl(75, 94%, 57%);
     color: black;
