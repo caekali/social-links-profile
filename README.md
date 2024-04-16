@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository](https://github.com/CaesarKalikunde/social-links-profile)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-using-css-flexbox-7m6vG6IM-d)
 - Live Site URL: [Deployed Site](https://caesarkalikunde.github.io/social-links-profile/)
 
 ### Built with
