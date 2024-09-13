@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-using-css-flexbox-7m6vG6IM-d)
-- Live Site URL: [Deployed Site](https://caesarkalikunde.github.io/social-links-profile/)
+- Live Site URL: [Deployed Site](https://caekali.github.io/social-links-profile/)
 
 ### Built with
 
